@@ -1,0 +1,87 @@
+.slider-section .container {
+    background-color: #000000;
+    background-color: #f89cab;
+    border-radius: 0 0 15px 15px;
+  }
+  .slider-section .container h1 {
+    font-size: 3.5rem;
+  }
+
+  .image-block  {
+    background-color: rgb(224, 210, 210);
+    height: 310px;
+      }
+      .text-bottom-left {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+.text-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.text-bottom-right {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+  .saving_section .box {
+    padding-top: 45px;
+    background-color: #7fd7eb;
+    color: #ffffff;
+    border-radius: 15px;
+  }
+
+  .gift-section {
+    background-color: #6929a5;
+  border-radius: 15px;
+  
+  }
+  .carousel-control-prev, .carousel-control-next {
+    width: 8%;
+}
+    /* Testimonial section */
+    .testimonial-card:hover {
+      background-color: green !important;
+      color: white !important;
+      transition: 0.3s ease-in-out;
+  }
+
+
+.contact_section input {
+    width: 100%;
+    border: 1px solid #919191;
+    height: 50px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+    background-color: transparent;
+    outline: none;
+    color: #101010;
+  }
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
